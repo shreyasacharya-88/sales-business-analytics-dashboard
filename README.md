@@ -150,8 +150,5 @@ BCA Student
 
 # 🔗 Connect With Me
 
-- **GitHub:**
-https://github.com/shreyasacharya-88
-
-- **Linkedin:**
-[https://www.linkedin.com/in/shreyas-acharya-ab022a359
+- [GitHub](https://github.com/shreyasacharya-88)
+- [LinkedIn](https://www.linkedin.com/in/shreyas-acharya-ab022a359/)
