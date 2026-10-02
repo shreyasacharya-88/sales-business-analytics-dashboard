@@ -58,3 +58,97 @@ sales-business-analytics-dashboard/
 │   └── dashboard.png
 │
 └── README.md
+# 🗄️ SQL Analysis
+
+The MySQL database contains a sales table with the following fields:
+
+- Sale_ID
+- Date
+- Customer
+- Product
+- Category
+- Region
+- Quantity
+- Sales
+- Cost
+- Profit
+
+## 📊 SQL Queries Included
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Quantity
+- Sales by Category
+- Sales by Region
+- Top 10 Products
+- Profit by Category
+- Monthly Sales Trend
+
+# 📈 Power BI Dashboard
+
+The Power BI dashboard provides an interactive view of business performance using KPI cards, charts and slicers.
+
+## 📊 Dashboard Components
+
+### KPI Cards
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Quantity
+
+### 📊 Charts
+
+- Monthly Sales Trend
+- Sales by Category
+- Sales by Region
+- Top 10 Products
+
+### 🎛️ Slicers
+
+- Date
+- Category
+- Region
+
+# 🖼️ Dashboard Preview
+
+![Sales Dashboard](screenshots/dashboard.png)
+
+# 📑 Excel Dataset
+
+The Excel workbook contains 150 sales records with formatted data and a summary sheet.
+
+## 📁 Files
+
+- `sales_data.xlsx`
+- `sales_data.csv`
+
+# 🎯 Skills Demonstrated
+
+- Excel
+- SQL
+- MySQL
+- Power BI
+- Data Cleaning
+- Data Aggregation
+- Data Visualization
+- Dashboard Design
+- Business Analysis
+- KPI Analysis
+- Business Intelligence
+
+# 💼 Resume Description
+
+Developed a Sales & Business Analytics Dashboard using Excel, MySQL and Power BI to analyze 150 sales records, track KPIs, identify category and regional trends, and visualize business performance through interactive dashboards.
+
+# 👨‍💻 Author
+
+**Shreyas**
+
+BCA Student
+
+# 🔗 Connect With Me
+
+- **GitHub:** https://github.com/shreyasacharya-88
+- **LinkedIn:** https://www.linkedin.com/in/shreyas-acharya-ab022a359
