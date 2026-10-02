@@ -40,7 +40,6 @@ A BCA portfolio project using **Excel, SQL/MySQL and Power BI** to analyze sales
 
 ## 📁 Project Structure
 
-```text
 sales-business-analytics-dashboard/
 │
 ├── data/
