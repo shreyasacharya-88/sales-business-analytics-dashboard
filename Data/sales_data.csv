@@ -1,0 +1,151 @@
+Sale_ID,Date,Customer,Product,Category,Region,Quantity,Sales,Cost,Profit
+1001,20-10-2025,Customer_001,Smartphone,Electronics,North,4,104443.78,88000,16443.78
+1002,25-08-2025,Customer_011,Business Book,Books,South,3,2191.73,1800,391.73
+1003,24-09-2025,Customer_048,Business Book,Books,East,3,2004.65,1800,204.65
+1004,23-01-2025,Customer_025,Novel,Books,West,2,846.0,700,146.0
+1005,26-05-2025,Customer_020,Mixer,Home Appliances,East,4,13577.29,12000,1577.29
+1006,10-03-2025,Customer_040,Data Science Book,Books,West,2,2294.08,1800,494.08
+1007,23-01-2025,Customer_013,Tea,Groceries,East,1,342.73,300,42.73
+1008,02-10-2025,Customer_036,Vacuum Cleaner,Home Appliances,West,2,12722.44,11000,1722.44
+1009,12-08-2025,Customer_021,Business Book,Books,North,1,730.52,600,130.52
+1010,25-04-2025,Customer_032,Novel,Books,East,2,774.65,700,74.65
+1011,07-11-2025,Customer_006,Headphones,Electronics,North,5,15829.6,12500,3329.6
+1012,16-07-2025,Customer_010,Tea,Groceries,South,3,1137.9,900,237.9
+1013,19-02-2025,Customer_013,Data Science Book,Books,East,2,2298.15,1800,498.15
+1014,10-08-2025,Customer_018,Novel,Books,North,4,1601.86,1400,201.86
+1015,13-11-2025,Customer_018,Rice,Groceries,West,2,1757.95,1400,357.95
+1016,04-06-2025,Customer_012,Jeans,Clothing,North,6,9490.81,7800,1690.81
+1017,03-09-2025,Customer_001,Vacuum Cleaner,Home Appliances,South,3,19441.09,16500,2941.09
+1018,19-06-2025,Customer_029,Air Cooler,Home Appliances,West,2,14487.02,13000,1487.02
+1019,26-10-2025,Customer_032,Jeans,Clothing,North,4,6581.7,5200,1381.7
+1020,26-09-2025,Customer_032,Mixer,Home Appliances,South,5,17803.01,15000,2803.01
+1021,27-03-2025,Customer_026,Business Book,Books,North,6,4259.01,3600,659.01
+1022,04-08-2025,Customer_025,Cooking Oil,Groceries,West,5,3779.3,3250,529.3
+1023,26-12-2025,Customer_027,Jeans,Clothing,South,5,7666.38,6500,1166.38
+1024,02-01-2025,Customer_023,Data Science Book,Books,South,5,5002.6,4500,502.6
+1025,19-03-2025,Customer_032,Monitor,Electronics,North,5,70904.05,60000,10904.05
+1026,23-08-2025,Customer_022,Novel,Books,East,5,2215.63,1750,465.63
+1027,24-12-2025,Customer_034,Data Science Book,Books,North,4,4172.79,3600,572.79
+1028,02-05-2025,Customer_013,Air Cooler,Home Appliances,West,5,35942.46,32500,3442.46
+1029,13-01-2025,Customer_016,Monitor,Electronics,East,3,42421.11,36000,6421.11
+1030,15-02-2025,Customer_050,Smartphone,Electronics,South,5,139079.35,110000,29079.35
+1031,27-05-2025,Customer_024,Jeans,Clothing,West,6,9250.17,7800,1450.17
+1032,09-04-2025,Customer_013,Vacuum Cleaner,Home Appliances,West,2,12257.9,11000,1257.9
+1033,17-04-2025,Customer_030,Monitor,Electronics,West,6,92156.09,72000,20156.09
+1034,18-08-2025,Customer_024,Cooking Oil,Groceries,South,2,1492.22,1300,192.22
+1035,18-11-2025,Customer_027,Laptop,Electronics,West,2,94103.85,80000,14103.85
+1036,30-11-2025,Customer_006,Shoes,Clothing,South,1,2230.22,1800,430.22
+1037,28-06-2025,Customer_049,Mixer,Home Appliances,North,3,10640.14,9000,1640.14
+1038,18-11-2025,Customer_033,Microwave,Home Appliances,West,4,39203.6,32000,7203.6
+1039,17-09-2025,Customer_022,Mixer,Home Appliances,East,4,14153.95,12000,2153.95
+1040,22-05-2025,Customer_038,Business Book,Books,West,4,3008.62,2400,608.62
+1041,12-02-2025,Customer_047,Cooking Oil,Groceries,West,6,4547.65,3900,647.65
+1042,28-03-2025,Customer_005,Biscuits,Groceries,East,4,983.77,800,183.77
+1043,09-01-2025,Customer_005,Tea,Groceries,West,3,1095.54,900,195.54
+1044,09-11-2025,Customer_016,Vacuum Cleaner,Home Appliances,North,3,19949.05,16500,3449.05
+1045,07-06-2025,Customer_004,Monitor,Electronics,North,5,74538.19,60000,14538.19
+1046,19-10-2025,Customer_037,Headphones,Electronics,West,4,11345.11,10000,1345.11
+1047,31-10-2025,Customer_037,Laptop,Electronics,North,4,181798.23,160000,21798.23
+1048,25-09-2025,Customer_043,Tea,Groceries,South,3,1130.98,900,230.98
+1049,19-01-2025,Customer_026,Tea,Groceries,East,3,1129.28,900,229.28
+1050,04-11-2025,Customer_023,Jeans,Clothing,North,2,2914.95,2600,314.95
+1051,16-01-2025,Customer_006,Cooking Oil,Groceries,West,5,4046.2,3250,796.2
+1052,13-08-2025,Customer_029,Tea,Groceries,West,3,999.66,900,99.66
+1053,09-11-2025,Customer_039,Data Science Book,Books,North,6,6369.54,5400,969.54
+1054,01-07-2025,Customer_033,Novel,Books,West,3,1335.62,1050,285.62
+1055,18-07-2025,Customer_010,Shoes,Clothing,South,1,2120.26,1800,320.26
+1056,06-04-2025,Customer_024,Shoes,Clothing,West,5,10594.6,9000,1594.6
+1057,26-01-2025,Customer_015,Biscuits,Groceries,South,1,225.96,200,25.96
+1058,24-10-2025,Customer_024,Jeans,Clothing,North,1,1578.87,1300,278.87
+1059,04-06-2025,Customer_028,Smartphone,Electronics,South,4,106273.26,88000,18273.26
+1060,26-06-2025,Customer_026,Shoes,Clothing,West,4,8131.0,7200,931.0
+1061,18-06-2025,Customer_012,Smartphone,Electronics,West,2,55000.23,44000,11000.23
+1062,20-03-2025,Customer_026,Rice,Groceries,South,6,5292.81,4200,1092.81
+1063,23-07-2025,Customer_047,Monitor,Electronics,East,2,26861.49,24000,2861.49
+1064,29-05-2025,Customer_007,Cooking Oil,Groceries,East,6,4886.27,3900,986.27
+1065,25-09-2025,Customer_035,Biscuits,Groceries,East,4,967.53,800,167.53
+1066,07-01-2025,Customer_015,Jeans,Clothing,South,6,9122.52,7800,1322.52
+1067,19-09-2025,Customer_026,Business Book,Books,North,1,722.31,600,122.31
+1068,28-05-2025,Customer_013,Vacuum Cleaner,Home Appliances,South,1,7009.13,5500,1509.13
+1069,08-02-2025,Customer_028,Programming Book,Books,East,1,772.18,700,72.18
+1070,02-04-2025,Customer_031,Smartphone,Electronics,North,3,76454.53,66000,10454.53
+1071,10-01-2025,Customer_013,Shoes,Clothing,North,2,4147.4,3600,547.4
+1072,07-05-2025,Customer_039,Programming Book,Books,West,5,4193.37,3500,693.37
+1073,10-10-2025,Customer_002,Laptop,Electronics,South,2,88078.65,80000,8078.65
+1074,18-12-2025,Customer_005,Jeans,Clothing,South,1,1592.2,1300,292.2
+1075,05-12-2025,Customer_040,Novel,Books,West,6,2560.11,2100,460.11
+1076,25-01-2025,Customer_025,Cooking Oil,Groceries,West,2,1442.35,1300,142.35
+1077,22-08-2025,Customer_041,Air Cooler,Home Appliances,West,2,14380.79,13000,1380.79
+1078,08-09-2025,Customer_017,Vacuum Cleaner,Home Appliances,East,6,36719.1,33000,3719.1
+1079,01-04-2025,Customer_018,Headphones,Electronics,South,4,11023.95,10000,1023.95
+1080,26-09-2025,Customer_035,Microwave,Home Appliances,South,2,19808.68,16000,3808.68
+1081,28-05-2025,Customer_037,Biscuits,Groceries,East,3,747.45,600,147.45
+1082,22-11-2025,Customer_010,Rice,Groceries,South,4,3521.29,2800,721.29
+1083,21-11-2025,Customer_014,Smartphone,Electronics,South,5,122194.58,110000,12194.58
+1084,20-04-2025,Customer_027,T-Shirt,Clothing,North,3,2635.23,2100,535.23
+1085,14-01-2025,Customer_008,Vacuum Cleaner,Home Appliances,West,5,33563.3,27500,6063.3
+1086,03-06-2025,Customer_041,Data Science Book,Books,North,4,4073.75,3600,473.75
+1087,15-01-2025,Customer_043,Programming Book,Books,North,5,3947.02,3500,447.02
+1088,23-06-2025,Customer_003,Rice,Groceries,West,6,4974.81,4200,774.81
+1089,30-10-2025,Customer_018,Programming Book,Books,North,2,1658.35,1400,258.35
+1090,11-09-2025,Customer_037,Rice,Groceries,West,3,2557.07,2100,457.07
+1091,18-03-2025,Customer_009,Air Cooler,Home Appliances,South,6,49488.54,39000,10488.54
+1092,23-08-2025,Customer_034,Smartphone,Electronics,South,6,153148.26,132000,21148.26
+1093,14-07-2025,Customer_047,Biscuits,Groceries,South,1,252.89,200,52.89
+1094,07-03-2025,Customer_028,Smartphone,Electronics,North,1,27885.5,22000,5885.5
+1095,04-12-2025,Customer_047,Business Book,Books,South,5,3795.12,3000,795.12
+1096,22-02-2025,Customer_028,Headphones,Electronics,East,3,9341.24,7500,1841.24
+1097,01-04-2025,Customer_045,T-Shirt,Clothing,North,6,4922.17,4200,722.17
+1098,15-12-2025,Customer_025,Jacket,Clothing,North,6,16921.81,15000,1921.81
+1099,21-09-2025,Customer_043,Biscuits,Groceries,West,4,978.8,800,178.8
+1100,08-04-2025,Customer_010,Headphones,Electronics,North,5,15391.35,12500,2891.35
+1101,06-02-2025,Customer_014,Programming Book,Books,South,4,3124.72,2800,324.72
+1102,21-08-2025,Customer_025,Jeans,Clothing,North,6,8819.81,7800,1019.81
+1103,07-05-2025,Customer_010,Air Cooler,Home Appliances,South,3,23517.63,19500,4017.63
+1104,06-09-2025,Customer_021,Novel,Books,East,3,1219.58,1050,169.58
+1105,14-09-2025,Customer_019,Tea,Groceries,West,1,351.95,300,51.95
+1106,29-03-2025,Customer_006,Monitor,Electronics,South,4,56511.79,48000,8511.79
+1107,25-08-2025,Customer_035,Jeans,Clothing,South,1,1621.83,1300,321.83
+1108,04-01-2025,Customer_037,Rice,Groceries,West,6,5036.36,4200,836.36
+1109,13-02-2025,Customer_031,Novel,Books,North,1,432.44,350,82.44
+1110,21-07-2025,Customer_041,Laptop,Electronics,West,4,204728.99,160000,44728.99
+1111,23-12-2025,Customer_010,Novel,Books,West,3,1261.2,1050,211.2
+1112,27-03-2025,Customer_030,Jacket,Clothing,West,4,11899.17,10000,1899.17
+1113,04-06-2025,Customer_002,Cooking Oil,Groceries,East,4,3139.89,2600,539.89
+1114,20-11-2025,Customer_015,Data Science Book,Books,East,3,3059.3,2700,359.3
+1115,05-11-2025,Customer_002,Jeans,Clothing,South,5,8061.84,6500,1561.84
+1116,30-01-2025,Customer_020,Jeans,Clothing,North,4,6648.46,5200,1448.46
+1117,11-04-2025,Customer_003,Laptop,Electronics,North,2,94724.24,80000,14724.24
+1118,19-01-2025,Customer_030,Laptop,Electronics,East,2,97782.93,80000,17782.93
+1119,12-01-2025,Customer_017,Novel,Books,South,6,2567.12,2100,467.12
+1120,21-03-2025,Customer_044,Mixer,Home Appliances,North,1,3376.07,3000,376.07
+1121,28-02-2025,Customer_031,Rice,Groceries,East,6,5352.85,4200,1152.85
+1122,29-06-2025,Customer_045,Air Cooler,Home Appliances,East,5,38244.6,32500,5744.6
+1123,02-11-2025,Customer_031,Microwave,Home Appliances,East,4,35525.18,32000,3525.18
+1124,06-09-2025,Customer_011,Novel,Books,North,4,1629.98,1400,229.98
+1125,09-10-2025,Customer_047,Air Cooler,Home Appliances,West,3,22148.85,19500,2648.85
+1126,22-01-2025,Customer_024,Jeans,Clothing,West,2,3232.84,2600,632.84
+1127,03-03-2025,Customer_013,Programming Book,Books,South,2,1739.26,1400,339.26
+1128,09-09-2025,Customer_017,Smartphone,Electronics,West,5,137601.54,110000,27601.54
+1129,12-02-2025,Customer_042,Biscuits,Groceries,North,6,1338.65,1200,138.65
+1130,28-03-2025,Customer_036,Data Science Book,Books,North,4,4539.24,3600,939.24
+1131,18-12-2025,Customer_027,Novel,Books,North,6,2396.7,2100,296.7
+1132,29-04-2025,Customer_009,Vacuum Cleaner,Home Appliances,North,4,27514.71,22000,5514.71
+1133,20-10-2025,Customer_045,Smartphone,Electronics,North,6,161464.17,132000,29464.17
+1134,07-04-2025,Customer_044,Headphones,Electronics,South,6,17562.57,15000,2562.57
+1135,06-11-2025,Customer_045,Rice,Groceries,East,2,1738.95,1400,338.95
+1136,11-06-2025,Customer_041,Business Book,Books,North,5,3807.88,3000,807.88
+1137,29-08-2025,Customer_033,Jacket,Clothing,South,4,11719.42,10000,1719.42
+1138,04-08-2025,Customer_016,Biscuits,Groceries,South,5,1230.91,1000,230.91
+1139,25-02-2025,Customer_047,Headphones,Electronics,East,3,8584.57,7500,1084.57
+1140,27-05-2025,Customer_023,Cooking Oil,Groceries,North,3,2432.03,1950,482.03
+1141,25-12-2025,Customer_029,Headphones,Electronics,South,1,3089.4,2500,589.4
+1142,26-07-2025,Customer_039,Biscuits,Groceries,North,5,1104.13,1000,104.13
+1143,28-07-2025,Customer_011,Jacket,Clothing,South,4,11830.57,10000,1830.57
+1144,25-06-2025,Customer_004,Mixer,Home Appliances,West,2,7289.76,6000,1289.76
+1145,26-12-2025,Customer_004,Rice,Groceries,South,1,853.07,700,153.07
+1146,13-08-2025,Customer_020,Rice,Groceries,East,4,3357.09,2800,557.09
+1147,30-05-2025,Customer_022,Tea,Groceries,East,2,710.16,600,110.16
+1148,05-02-2025,Customer_019,Mixer,Home Appliances,East,6,23024.1,18000,5024.1
+1149,26-12-2025,Customer_041,Cooking Oil,Groceries,West,1,825.23,650,175.23
+1150,10-06-2025,Customer_018,Data Science Book,Books,South,4,4222.41,3600,622.41
